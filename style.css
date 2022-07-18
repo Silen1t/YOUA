@@ -57,7 +57,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/image/background.svg) no-repeat;
+    background: url(../YOUAwebsite/image/background.svg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
